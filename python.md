@@ -25,7 +25,7 @@ python is used for data science automation machine learning automation even in s
 3. cant use any of the special characters.
 4. Its considered best practices (PEP8) that are lowercases.
 5. Avoid using the characters '1' , '0', or 'I' as single variable names. as they are keywords are
-[reserved keywords](https://cdn.teachoo.com/2478219f-ca70-4062-bd24-08a36fde1eeb/examples-of-python-keywords---teachoo.jpg)
+![reserved keywords](https://cdn.teachoo.com/2478219f-ca70-4062-bd24-08a36fde1eeb/examples-of-python-keywords---teachoo.jpg)
 6. avoid using words that have special meanings in python like "list" and "str"
 
 
